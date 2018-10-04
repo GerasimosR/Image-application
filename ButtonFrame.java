@@ -34,7 +34,7 @@ public  class ButtonFrame extends JFrame implements ActionListener
         Resize.addActionListener(this);
         j1.addActionListener(this);
         j2.addActionListener(this);
-       //Menu construction
+        //Menu construction
         menu.add(j1);
         menu.add(j2);
         menubar.add(menu);
